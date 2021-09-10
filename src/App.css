@@ -1,0 +1,20 @@
+.counter {
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+    background: black;
+}
+
+.pole {
+    text-align: center;
+    height: 50px;
+    background: aquamarine;
+}
+
+
+.red{
+    color: red;
+    font-size: 24px;
+}
