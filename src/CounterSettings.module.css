@@ -1,0 +1,47 @@
+.settings {
+    text-align: center;
+    border: 5px solid aqua;
+    border-radius: 7%;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #000000;
+}
+
+.pole {
+    border: 3px solid aqua;
+    border-radius: 10%;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    height: 140px;
+}
+
+.pole p {
+    width: 250px;
+    font-size: 25px;
+    color: aqua;
+}
+
+.set {
+    border: 3px solid aqua;
+    border-radius: 10%;
+    margin-top: 10px;
+    width: 300px;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.set button {
+    width: 35%;
+    border-radius: 45%;
+    height: 50%;
+    background: aqua;
+    font-size: 25px;
+}

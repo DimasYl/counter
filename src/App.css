@@ -1,20 +1,16 @@
-.counter {
-    margin: 0 auto;
-    text-align: center;
-    border: 1px solid black;
-    width: 200px;
-    height: 100px;
-    background: black;
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
 }
-
-.pole {
-    text-align: center;
-    height: 50px;
-    background: aquamarine;
+.number {
+    font-size: 40px;
+    color: aqua;
 }
-
 
 .red{
     color: red;
-    font-size: 24px;
+    font-size: 40px;
 }
